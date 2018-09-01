@@ -1,0 +1,33 @@
+nav .navbar-nav li a{
+    color: white !important;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: x-large;
+}
+
+.laravel {
+    background-image: url("../media/laravel.jpg");
+}
+
+.node {
+    background-image: url("../media/node.jpg");
+}
+
+.android {
+    background-image: url("../media/android.jpg");
+}
+
+.react {
+    background-image: url("../media/react.jpg");
+}
+
+.text-custom {
+    color: #0B5A6B;
+}
+
+.navbar-toggler {
+    border-style: none;
+}
+
+.nav-custom {
+    background-image: url("../media/bg_landscape.jpg");
+}
