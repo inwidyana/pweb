@@ -1,0 +1,30 @@
+$primary-color: #0B5A6B;
+
+%font-settings {
+  color: $primary-color !important;
+  font-family: 'Roboto', sans-serif;
+  font-size: x-large;
+}
+
+nav {
+  .navbar-nav {
+    li {
+      a {
+        @extend %font-settings
+      }
+    }
+  }
+}
+
+h3 {
+  @extend %font-settings
+}
+
+.active {
+  text-decoration: underline;
+}
+
+.project-image {
+  width: 100%;
+  height: 100%;
+}
