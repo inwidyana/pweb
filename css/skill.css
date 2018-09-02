@@ -31,3 +31,7 @@ nav .navbar-nav li a{
 .nav-custom {
     background-image: url("../media/bg_landscape.jpg");
 }
+
+.active {
+    text-decoration: underline;
+}
