@@ -1,0 +1,9 @@
+nav .navbar-nav li a{
+    color: #0B5A6B !important;
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+}
+
+.active {
+    text-decoration: underline;
+}
